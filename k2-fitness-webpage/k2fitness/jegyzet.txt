@@ -1,0 +1,14 @@
+element.style {
+    background-color: #ffffffd4;
+    padding: 30px 40px 80px 40px;
+}
+
+.pricing-plan1-wrapper {
+    margin-top: 1px;
+}
+
+.second-column {
+    width: 80%;
+    background: rgba(128, 0, 0, 0.50);
+    color: black;
+}
